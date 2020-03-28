@@ -10,7 +10,6 @@ import java.io.InputStreamReader;
 public class Main {
 
 	
-	
 	public static void main(String[] args) throws IOException {
 		// read prefix for building binary tree
 		BufferedReader br = new BufferedReader(
